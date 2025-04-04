@@ -1,4 +1,4 @@
-Nombre del Proyecto:  Conversor Divisas en C
+# Nombre del Proyecto:  Conversor Divisas en C
 
 ## Conversor de Moneda
 ## Descripcion:
