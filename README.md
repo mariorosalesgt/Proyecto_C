@@ -4,3 +4,8 @@ Esta es una Tarea de la asignatura Fundamentos de Programacion de la Universidad
 
 ## Prerequisitos:  
 Instalar compilador de c/c++
+
+## Datos del Autor:
+Mario Augusto Rosales Gomez
+Correo:  0011323@galileo.edu
+Carnet:  0011323
